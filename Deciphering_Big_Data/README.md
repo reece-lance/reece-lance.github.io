@@ -13,8 +13,24 @@ The "Deciphering Big Data" module focuses on developing the skills necessary to 
 
 ## Key Artefacts
 
-- [Collaborative Discussion Forum Summaries](Collaborative_Discussions/discussion_summary1.md)
-- [Team Exercise Outcomes](Team_Exercises/exercise1_results.md)
-- [Individual Portfolio Pieces](Individual_Work/individual_task1.md)
-- [Professional Development Plan](Professional_Development/PDP.md)
+### [Collaborative Discussion Forum Summaries](./Collaborative_Discussions/README.md)
 
+- [Collaborative Discussion 1 - The Data Collection Process (Units 1 - 3)](./Collaborative_Discussions/discussion_1.md)
+- [Collaborative Discussion 2 - Comparing Compliance Laws (Units 8 - 10)](./Collaborative_Discussions/discussion_2.md)
+
+### [Team Exercise Outcomes](./Individual_Tasks/README.md)
+
+An overview of individual tasks completed, including:
+
+- [Data Cleaning (activities in Lecturecast in Unit 4)](./Individual_Tasks/data_cleaning_unit4.md)
+- [Data Cleaning Continued (activities in Lecturecast in Unit 5)](./Individual_Tasks/data_cleaning_unit5.md)
+- [Normalisation Task (Unit 7)](./Individual_Tasks/normalisation_task_unit7.md)
+- [API Security Requirements (Unit 10)](./Individual_Tasks/api_security_requirements_unit10.md)
+
+### [Individual Portfolio Pieces](./Individual_Tasks/README.md)
+
+Detailed documentation of individual tasks and learning reflections.
+
+### Professional Development Plan
+
+- This plan includes the development goals set during the module, feedback from peers and tutors, and reflections on growth and learning strategies. *(Details to be added upon completion)*
