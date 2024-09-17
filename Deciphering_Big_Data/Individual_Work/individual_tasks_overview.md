@@ -1,47 +1,33 @@
 # Individual Tasks Overview
 
-This section outlines the individual tasks required for the e-portfolio as part of the "Deciphering Big Data" module. Completed tasks are documented, and placeholders are provided for tasks that are pending completion.
+This directory provides an overview of the individual tasks required for the e-portfolio as part of the "Deciphering Big Data" module. Each task has its own dedicated file, linked below for easy access.
 
-## Completed Tasks
+## Task List
 
-- **Collaborative Discussion 1 - The Data Collection Process (Units 1 - 3):**
-  - This task has been completed and is documented in the file `Collaborative_Discussions/discussion_summary.md`.
+### [Collaborative Discussion 1 - The Data Collection Process (Units 1 - 3)](../Collaborative_Discussions/discussion_1.md)
 
-## Pending Tasks
+A critical evaluation of the rationale behind the Internet of Things (IoT) in large-scale data collection, highlighting opportunities, limitations, risks, and challenges.
 
-### Task 1: Data Cleaning (Unit 4)
+### [Collaborative Discussion 2 - Comparing Compliance Laws (Units 8 - 10)](../Collaborative_Discussions/discussion_2.md)
 
-- **Objective:** Clean datasets retrieved from various sources, including data obtained through API access.
-- **Planned Actions:**
-  - Retrieve data from the TfL API using Python scripts.
-  - Remove duplicates, handle missing values, and convert data types as needed using the `pandas` library.
-  - Document the approach, challenges, solutions, and reflections upon completion.
+Explores the comparison of different data compliance laws, such as GDPR and CCPA, and their implications for data professionals.
 
-### Task 2: Data Cleaning Continued (Unit 5)
+### [Data Cleaning (activities in Lecturecast in Unit 4)](./data_cleaning_unit4.md)
 
-- **Objective:** Continue the data cleaning process by addressing more complex data cleaning requirements.
-- **Planned Actions:**
-  - Detect and correct data anomalies, ensure data consistency, and prepare data for further analysis.
-  - Reflect on the techniques used and lessons learned during the process.
+Details the process and methodologies used for cleaning datasets retrieved during Unit 4 activities.
 
-### Task 3: Normalisation Task (Unit 7)
+### [Data Cleaning Continued (activities in Lecturecast in Unit 5)](./data_cleaning_unit5.md)
 
-- **Objective:** Normalize the cleaned data for efficient storage and querying in a database.
-- **Planned Actions:**
-  - Apply appropriate normalization forms (1NF, 2NF, 3NF) to organize the data into a structured format.
-  - Ensure data integrity and optimize for performance.
-  - Document the steps, outcomes, and reflections.
+Describes the continued efforts in data cleaning, addressing more complex data cleaning requirements and ensuring data consistency across multiple datasets.
 
-### Task 4: Collaborative Discussion 2 - Comparing Compliance Laws (Units 8 - 10)
+### [Normalisation Task (Unit 7)](./normalisation_task_unit7.md)
 
-- **Objective:** Compare and analyse different data compliance laws and their implications for data professionals.
-- **Planned Actions:**
-  - Engage in the discussion, provide initial contributions, and respond to peer feedback.
-  - Reflect on key insights and learning outcomes upon completion.
+Outlines the steps taken to normalize the cleaned data for efficient storage and querying in a database.
 
-### Task 5: API Security Requirements (Unit 10)
+### [API Security Requirements (Unit 10)](./api_security_requirements_unit10.md)
 
-- **Objective:** Implement security measures to protect data retrieved via the TfL API, ensuring compliance with best practices.
-- **Planned Actions:**
-  - Implement HTTPS, OAuth 2.0, and access control mechanisms.
-  - Document the approach, any challenges faced, and reflections.
+Documents the implementation of security measures to protect data retrieved via the TfL API, ensuring compliance with industry standards and best practices.
+
+---
+
+*Use the links above to navigate directly to each task file and review the detailed content provided.*
