@@ -31,6 +31,6 @@ An overview of individual tasks completed, including:
 
 Detailed documentation of individual tasks and learning reflections.
 
-### Professional Development Plan
+### [Professional Development Plan](./Professional_Development/professional_development_plan.md)
 
-- This plan includes the development goals set during the module, feedback from peers and tutors, and reflections on growth and learning strategies. *(Details to be added upon completion)*
+- This plan includes the development goals set during the module, feedback from peers and tutors, and reflections on growth and learning strategies.
