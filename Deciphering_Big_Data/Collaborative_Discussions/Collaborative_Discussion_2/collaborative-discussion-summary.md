@@ -6,7 +6,7 @@ This task involved a three-week collaborative discussion, focusing on comparing 
 
 In my initial post, I focused on the challenges and strengths of **anonymisation** as a core GDPR strategy for reducing risks associated with personal data. The **GDPR** and **ICO** both recommend anonymisation and pseudonymisation as methods to ensure security. However, I raised concerns regarding the increasing risk of **re-identification**, where advancements in **AI** and **data mining** threaten the effectiveness of anonymisation. This highlighted a key question about the long-term reliability of anonymisation and whether businesses should invest in stronger data protection measures like encryption and access controls.
 
-[Link to full initial post](./Collaborative_Discussion_2/Posts/initial_post)
+[Link to full initial post](./Collaborative_Discussion_2/Posts/initial-post)
 
 ## Peer Responses
 
