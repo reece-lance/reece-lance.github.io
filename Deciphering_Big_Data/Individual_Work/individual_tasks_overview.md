@@ -12,13 +12,9 @@ A critical evaluation of the rationale behind the Internet of Things (IoT) in la
 
 Explores the comparison of different data compliance laws, such as GDPR and CCPA, and their implications for data professionals.
 
-### [Data Cleaning (activities in Lecturecast in Unit 4)](./data_cleaning_unit4.md)
+### [Data Cleaning and Data Cleaning Continued (activities in Lecturecast in Unit 4)](./data_cleaning_unit4.md)
 
 Details the process and methodologies used for cleaning datasets retrieved during Unit 4 activities.
-
-### [Data Cleaning Continued (activities in Lecturecast in Unit 5)](./data_cleaning_unit5.md)
-
-Describes the continued efforts in data cleaning, addressing more complex data cleaning requirements and ensuring data consistency across multiple datasets.
 
 ### [Normalisation Task (Unit 7)](./normalisation_task_unit7.md)
 
