@@ -55,7 +55,7 @@ This is a task focused on cleaning and processing a [Unicef dataset](./data/unit
 - The final cleaned dataset contains 9,008 rows and 159 columns.
 - The data has been cleaned, normalised, and stored in an [SQLite database (`cleaned_data.db`)](./data/unit-4/cleaned_data.db), where it can be easily accessed and queried.
 
-## Instructions for Running the [Code](./scripts/data-cleaning-unit4.py)
+## Instructions for Running the [Code](./scripts/unit-4/data-cleaning.py)
 
 ### Prerequisites
 
