@@ -1,4 +1,4 @@
-# Collaborative Discussion Summary: IoT and Smart Cities
+# Collaborative Discussion Summary: The Data Collection Process (Units 1 - 3)
 
 ## Overview
 This section summarises my participation in the collaborative discussion, which focused on how the Internet of Things (IoT) is transforming smart cities. The discussion highlighted the benefits of IoT for urban environments, such as enhanced traffic management and public safety, but also raised concerns about privacy, security, and technical challenges.
