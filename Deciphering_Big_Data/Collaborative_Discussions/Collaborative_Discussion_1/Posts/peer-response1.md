@@ -1,4 +1,4 @@
-## Peer Response 1
+# Peer Response 1
 
 Hi Ben,
 
