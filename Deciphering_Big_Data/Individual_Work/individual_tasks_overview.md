@@ -4,14 +4,6 @@ This directory provides an overview of the individual tasks required for the e-p
 
 ## Task List
 
-### [Collaborative Discussion 1 - The Data Collection Process (Units 1 - 3)](../Collaborative_Discussions/discussion_1.md)
-
-A critical evaluation of the rationale behind the Internet of Things (IoT) in large-scale data collection, highlighting opportunities, limitations, risks, and challenges.
-
-### [Collaborative Discussion 2 - Comparing Compliance Laws (Units 8 - 10)](../Collaborative_Discussions/discussion_2.md)
-
-Explores the comparison of different data compliance laws, such as GDPR and CCPA, and their implications for data professionals.
-
 ### [Data Cleaning and Data Cleaning Continued (activities in Lecturecast in Unit 4)](./data_cleaning_unit4.md)
 
 Details the process and methodologies used for cleaning datasets retrieved during Unit 4 activities.
