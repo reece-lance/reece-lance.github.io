@@ -1,4 +1,4 @@
-## Peer Response 2
+# Peer Response 2
 
 Hi Andrew,
 
