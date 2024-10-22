@@ -13,7 +13,7 @@ The "Deciphering Big Data" module focuses on developing the skills necessary to 
 
 ## Key Artefacts
 
-### [Collaborative Discussion Forum Summaries](./Collaborative_Discussions/README.md)
+### Collaborative Discussion Forum Summaries
 
 - [Collaborative Discussion 1 - The Data Collection Process (Units 1 - 3)](./Collaborative_Discussions/Collaborative_Discussion_1)
 - [Collaborative Discussion 2 - Comparing Compliance Laws (Units 8 - 10)](./Collaborative_Discussions/Collaborative_Discussion_2)
