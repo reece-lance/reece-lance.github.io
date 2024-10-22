@@ -4,18 +4,18 @@
 This section summarises my participation in the collaborative discussion, which focused on how the Internet of Things (IoT) is transforming smart cities. The discussion highlighted the benefits of IoT for urban environments, such as enhanced traffic management and public safety, but also raised concerns about privacy, security, and technical challenges.
 
 ## My Initial Post
-[Initial Post](../posts/initial-post.md)
+[Initial Post](../Posts/initial-post.md)
 
 In my initial post, I explored the integration of IoT in smart cities and how it enhances efficiency, sustainability, and residents' quality of life. I discussed specific applications such as smart traffic management systems and smart parking, while also addressing challenges such as deployment costs, interoperability, and privacy concerns related to data collection and security.
 
 ## Key Points from Peer Feedback
 1. **Expand on Case Studies**: My peer, Dinh Khoi Dang, suggested including real-world examples of cities that have successfully implemented IoT solutions, such as Singapore’s Smart Nation initiative, which leverages IoT data for traffic management and energy optimisation.
    
-   [First Response Post](../posts/peer-response1.md)
+   [First Response Post](../Posts/peer-response1.md)
 
 2. **Address Privacy and Security Concerns**: Jack Griffiths highlighted privacy and security concerns, particularly in the context of cyber-attacks, recommending a deeper exploration of potential solutions like encryption and data governance frameworks to mitigate these risks.
    
-   [Second Response Post](../posts/peer-response2.md)
+   [Second Response Post](../Posts/peer-response2.md)
 
 3. **Long-Term Benefits**: Matthew Bowyer noted that while the challenges of IoT integration, such as high costs and interoperability issues, are significant, the long-term benefits in terms of urban efficiency and sustainability could justify these investments.
 
@@ -37,4 +37,4 @@ The feedback from my peers helped me reconsider certain aspects of my initial po
 ## Conclusion
 This discussion has helped deepen my understanding of the opportunities and challenges of IoT in smart cities. Feedback from peers highlighted the importance of real-world examples, emphasised privacy concerns, and offered a balanced view of the long-term benefits. Moving forward, I will ensure that my analyses of IoT include detailed case studies and robust discussions on privacy and security.
 
-[Summary Post](../posts/summary-post.md)
+[Summary Post](../Posts/summary-post.md)
