@@ -12,7 +12,7 @@ Overall, your post is well-structured and provides a balanced view of the opport
 
 [Summary Post](../posts/summary-post.md)
 
-### References
+## References
 
 Huxley, J., Smith, A., & Jones, B. (2020). Big data architectures: A survey. *Journal of Big Data*, 7(1), 12-34. https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures
 
