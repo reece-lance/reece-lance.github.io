@@ -1,4 +1,4 @@
-# Collaborative Discussion Summary: GDPR and ICO Security Standards
+# Collaborative Discussion Summary: Comparing Compliance Laws (Units 8 - 10)
 
 ## Overview
 This section summarises my participation in the second collaborative discussion, which focused on comparing the GDPR's security standards with similar data protection laws in the UK, particularly the ICO guidelines. The discussion highlighted the need for appropriate technical and organisational measures, such as encryption and access controls, to secure personal data, and considered the growing risks related to anonymisation and re-identification.
