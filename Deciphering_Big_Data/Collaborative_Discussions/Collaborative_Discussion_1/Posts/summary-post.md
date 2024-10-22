@@ -1,4 +1,4 @@
-## Summary Post
+# Summary Post
 
 The integration of the Internet of Things (IoT) into smart cities holds significant potential to revolutionise urban environments by enhancing efficiency, sustainability, and residents' quality of life. My initial post highlighted how IoT can optimise traffic management, reduce congestion, and improve public safety. However, peer feedback has prompted a deeper examination of the challenges related to privacy, security, and technical implementation.
 
