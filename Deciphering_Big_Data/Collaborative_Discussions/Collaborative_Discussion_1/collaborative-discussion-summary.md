@@ -10,15 +10,15 @@ In my initial post, I explored the integration of IoT in smart cities and how it
 
 ## Key Points from Peer Feedback
 1. **Expand on Case Studies**: My peer, Dinh Khoi Dang, suggested including real-world examples of cities that have successfully implemented IoT solutions, such as Singapore’s Smart Nation initiative, which leverages IoT data for traffic management and energy optimisation.
-   
-   [First Response Post](../Collaborative_Discussion_1/Posts/peer-response1.md)
 
 2. **Address Privacy and Security Concerns**: Jack Griffiths highlighted privacy and security concerns, particularly in the context of cyber-attacks, recommending a deeper exploration of potential solutions like encryption and data governance frameworks to mitigate these risks.
-   
-   [Second Response Post](../Collaborative_Discussion_1/Posts/peer-response2.md)
 
 3. **Long-Term Benefits**: Matthew Bowyer noted that while the challenges of IoT integration, such as high costs and interoperability issues, are significant, the long-term benefits in terms of urban efficiency and sustainability could justify these investments.
 
+   [First Response Post](../Collaborative_Discussion_1/Posts/peer-response1.md)
+
+   [Second Response Post](../Collaborative_Discussion_1/Posts/peer-response2.md)
+   
 ## Reflection on Feedback
 The feedback from my peers helped me reconsider certain aspects of my initial post:
 - **Specific Case Studies**: Based on Dinh's suggestion, I recognised that including examples of cities successfully implementing IoT would provide practical insights. Cities like Singapore and Barcelona are leading examples of how IoT can transform urban environments.
