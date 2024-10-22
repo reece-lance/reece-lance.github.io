@@ -1,4 +1,4 @@
-# Peer Response 1
+## First Response Post
 
 Hi Ben,
 
@@ -10,9 +10,9 @@ Moreover, your mention of security risks associated with IoT is crucial, especia
 
 Overall, your post is well-structured and provides a balanced view of the opportunities and challenges of IoT in big data analytics. I look forward to your thoughts on how these challenges can be addressed to fully harness the potential of IoT.
 
-Reece
+[Summary Post](../posts/summary-post.md)
 
-## References
+### References
 
 Huxley, J., Smith, A., & Jones, B. (2020). Big data architectures: A survey. *Journal of Big Data*, 7(1), 12-34. https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures
 
