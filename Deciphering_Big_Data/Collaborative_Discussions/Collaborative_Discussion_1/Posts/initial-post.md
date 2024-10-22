@@ -1,4 +1,4 @@
-## Initial Post
+# Initial Post
 
 Various industries are being transformed by the Internet of Things (IoT), one of the most exciting being smart cities. Urban environments can be revolutionised by the integration of IoT, with changes made to the way they operate, increased efficiency, sustainability, and quality of life for the residents. These benefits are highlighted by Huxley (2020).
 
