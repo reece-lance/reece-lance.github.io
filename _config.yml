@@ -1,5 +1,5 @@
 # Remote theme from Minimal Mistakes
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minima
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
