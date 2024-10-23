@@ -3,6 +3,4 @@ theme: minima
 title: "MSc Data Science e-Portfolio"
 
 header_pages:
-  - index.md               # Home page
-  - Deciphering_Big_Data.md # Link to Deciphering Big Data
-  - Machine_Learning.md     # Link to Machine Learning
+  - Deciphering_Big_Data/README.md # Link to Deciphering Big Data
