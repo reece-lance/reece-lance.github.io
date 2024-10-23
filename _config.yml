@@ -18,7 +18,6 @@ description: "A professional collection of my work, reflections, and development
 header:
   title: "MSc Data Science e-Portfolio"
   tagline: "Reflecting on Learning and Development"
-  logo: "/assets/images/logo.png"  # Ensure this path is correct, or remove if no logo
 
 # Navigation bar
 navigation:
