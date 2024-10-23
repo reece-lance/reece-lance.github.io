@@ -1,5 +1,3 @@
-# MSc Data Science e-Portfolio
-
 **Welcome to my e-Portfolio for the MSc Data Science Programme.**
 
 This portfolio showcases my learning journey, skills development, and professional growth throughout the master's degree in Data Science. It includes detailed reflections, collaborative work, individual projects, and evidence of skills acquired across multiple core modules. The e-portfolio serves as a demonstration of my ability to solve complex data problems, engage in critical analysis, collaborate effectively in virtual environments, and apply machine learning techniques in real-world contexts. 
