@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Professional Skills Matrix and Action Plan"
-permalink: /professional-development/
+permalink: /Professional-Development/
 ---
 
 # Professional Skills Matrix and Action Plan
