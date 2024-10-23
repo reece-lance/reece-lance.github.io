@@ -1,3 +1,4 @@
+# Remote theme from Minimal Mistakes
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-remote-theme
@@ -13,13 +14,13 @@ plugins:
 title: "MSc Data Science e-Portfolio"
 description: "A professional collection of my work, reflections, and development throughout my MSc in Data Science."
 
-# Navigation and footer links
+# Site-wide navigation settings
 header:
   title: "MSc Data Science e-Portfolio"
   tagline: "Reflecting on Learning and Development"
-  logo: "/assets/images/logo.png" # Replace this with your logo path, if you have one
+  logo: "/assets/images/logo.png"  # Ensure this path is correct, or remove if no logo
 
-# Set the navigation bar
+# Navigation bar
 navigation:
   - title: "About Me"
     url: "/about-me/"
@@ -36,7 +37,7 @@ navigation:
   - title: "Contact"
     url: "/contact/"
 
-# Footer
+# Footer links
 footer:
   links:
     - title: "GitHub"
@@ -44,7 +45,7 @@ footer:
     - title: "LinkedIn"
       url: "https://www.linkedin.com/in/reece-lance"
 
-# Social media links
+# Author details
 author:
   name: "Reece Lance"
   links:
@@ -55,5 +56,5 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/reece-lance"
 
-# Optional settings
+# Optional site-wide settings
 show_excerpts: true
