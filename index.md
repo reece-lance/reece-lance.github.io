@@ -1,5 +1,6 @@
 ---
 title: "MSc Data Science e-Portfolio"
+nav: false
 ---
 
 **Welcome to my e-Portfolio for the MSc Data Science Programme.**
