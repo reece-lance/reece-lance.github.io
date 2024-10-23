@@ -1,5 +1,7 @@
 ---
 title: "MSc Data Science e-Portfolio"
+author: "Reece Lance"
+tagline: "Test"
 ---
 
 **Welcome to my e-Portfolio for the MSc Data Science Programme.**
