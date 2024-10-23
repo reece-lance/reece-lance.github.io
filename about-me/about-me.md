@@ -1,3 +1,8 @@
+---
+layout: single
+title: "About Me"
+permalink: /about-me/
+---
 # About Me
 
 I am a Master’s student in Data Science with a strong background in data analysis, machine learning, and database management. I have a passion for uncovering insights from complex datasets and using data-driven approaches to solve real-world problems.
