@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Professional Skills Matrix and Action Plan"
+permalink: /professional-development/
+---
+
 # Professional Skills Matrix and Action Plan
 
 ## Skills Gained
