@@ -1,0 +1,14 @@
+<footer class="site-footer">
+  <ul class="social-links">
+    {% for link in site.author.links %}
+      <li>
+        <a href="{{ link.url }}">
+          <i class="{{ link.icon }}"></i>
+          {{ link.label }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+  <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. Powered by Jekyll & Minimal Mistakes.</p>
+  <p><a href="{{ '/contact/' | relative_url }}">Contact Me</a></p>
+</footer>
