@@ -36,7 +36,16 @@ navigation:
   - title: "Contact"
     url: "/contact/"
 
-# Footer links
+author:
+  name: "Reece Lance"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/reece-lance"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/reece-lance"
+
 footer:
   links:
     - title: "GitHub"
@@ -44,18 +53,6 @@ footer:
     - title: "LinkedIn"
       url: "https://www.linkedin.com/in/reece-lance"
 
-# Author details
-author:
-  name: "Reece Lance"
-  social:
-    github:
-      - label: "GitHub"
-        icon: "fab fa-github"
-        url: "https://github.com/reece-lance"
-    linkedin:
-      - label: "LinkedIn"
-        icon: "fab fa-linkedin"
-        url: "https://www.linkedin.com/in/reece-lance"
 
 # Optional site-wide settings
 show_excerpts: true
