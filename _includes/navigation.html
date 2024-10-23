@@ -1,14 +1,10 @@
-<ul>
-  {% for item in site.navigation %}
-    <li>
-      <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-      {% if item.children %}
-        <ul>
-          {% for sub_item in item.children %}
-            <li><a href="{{ sub_item.url | relative_url }}">{{ sub_item.title }}</a></li>
-          {% endfor %}
-        </ul>
-      {% endif %}
-    </li>
-  {% endfor %}
-</ul>
+<nav class="site-nav">
+  <ul class="navigation">
+    <li><a href="{{ site.baseurl }}/about-me/">About Me</a></li>
+    <li><a href="{{ site.baseurl }}/deciphering-big-data/">Deciphering Big Data</a></li>
+    <li><a href="{{ site.baseurl }}/machine-learning/">Machine Learning</a></li>
+    <li><a href="{{ site.baseurl }}/research-methods/">Research Methods</a></li>
+    <li><a href="{{ site.baseurl }}/professional-development/">Professional Development</a></li>
+    <li><a href="{{ site.baseurl }}/contact/">Contact</a></li>
+  </ul>
+</nav>
