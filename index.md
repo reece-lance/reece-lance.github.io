@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 title: "MSc Data Science e-Portfolio"
 author: "Reece Lance"
 description: "A professional collection of my work, reflections, and development throughout my MSc in Data Science."
