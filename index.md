@@ -1,6 +1,11 @@
 ---
+layout: single
 title: "MSc Data Science e-Portfolio"
 author: "Reece Lance"
+description: "A professional collection of my work, reflections, and development throughout my MSc in Data Science."
+header:
+  overlay_color: "#333" # Optional, overlay color
+  caption: "Welcome to my MSc Data Science e-Portfolio"
 ---
 
 **Welcome to my e-Portfolio for the MSc Data Science Programme.**
@@ -16,3 +21,7 @@ This e-portfolio is a comprehensive collection of my work, reflections, and prof
 ## Professional Development
 
 - [Professional Skills Matrix and Action Plan](Deciphering_Big_Data/Professional_Development/PDP.md)
+
+---
+
+{% include footer.html %}
