@@ -47,13 +47,15 @@ footer:
 # Author details
 author:
   name: "Reece Lance"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/reece-lance"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/reece-lance"
+  social:
+    github:
+      - label: "GitHub"
+        icon: "fab fa-github"
+        url: "https://github.com/reece-lance"
+    linkedin:
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "https://www.linkedin.com/in/reece-lance"
 
 # Optional site-wide settings
 show_excerpts: true
