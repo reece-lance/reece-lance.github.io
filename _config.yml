@@ -1,6 +1,52 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme # add this line if you have it commented out
 
-
+# Site title and description
 title: "MSc Data Science e-Portfolio"
+description: "A professional collection of my work, reflections, and development throughout my MSc in Data Science."
+
+# Navigation and footer links
+header:
+  title: "MSc Data Science e-Portfolio"
+  tagline: "Reflecting on Learning and Development"
+  logo: "/assets/images/logo.png" # Replace this with your logo path, if you have one
+
+# Set the navigation bar
+navigation:
+  - title: "About Me"
+    url: "/about-me/"
+  - title: "Modules"
+    children:
+      - title: "Deciphering Big Data"
+        url: "/deciphering-big-data/"
+      - title: "Machine Learning"
+        url: "/machine-learning/"
+      - title: "Research Methods and Professional Practice"
+        url: "/research-methods/"
+  - title: "Professional Development"
+    url: "/professional-development/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Footer
+footer:
+  links:
+    - title: "GitHub"
+      url: "https://github.com/reece-lance"
+    - title: "LinkedIn"
+      url: "https://www.linkedin.com/in/reece-lance"
+
+# Social media links
+author:
+  name: "Reece Lance"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/reece-lance"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/reece-lance"
+
+# Optional settings
+show_excerpts: true
