@@ -29,7 +29,7 @@ navigation:
         url: "/deciphering-big-data/"
       - title: "Machine Learning"
         url: "/machine-learning/"
-      - title: "Research Methods and Professional Practice"
+      - title: "Research Methods"
         url: "/research-methods/"
   - title: "Professional Development"
     url: "/professional-development/"
