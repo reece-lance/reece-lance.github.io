@@ -20,21 +20,22 @@ header:
   tagline: "Reflecting on Learning and Development"
 
 # Navigation bar
-navigation:
-  - title: "About Me"
-    url: "/about-me/"
-  - title: "Modules"
-    children:
-      - title: "Deciphering Big Data"
-        url: "/deciphering-big-data/"
-      - title: "Machine Learning"
-        url: "/machine-learning/"
-      - title: "Research Methods"
-        url: "/research-methods/"
-  - title: "Professional Development"
-    url: "/professional-development/"
-  - title: "Contact"
-    url: "/contact/"
+header:
+  navigation:
+    - title: "About Me"
+      url: "/about-me/"
+    - title: "Modules"
+      children:
+        - title: "Deciphering Big Data"
+          url: "/deciphering-big-data/"
+        - title: "Machine Learning"
+          url: "/machine-learning/"
+        - title: "Research Methods"
+          url: "/research-methods/"
+    - title: "Professional Development"
+      url: "/professional-development/"
+    - title: "Contact"
+      url: "/contact/"
 
 defaults:
   - scope:
