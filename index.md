@@ -1,4 +1,4 @@
-# MSc Data Science e-Portfolio
+## MSc Data Science e-Portfolio
 
 **Welcome to my e-Portfolio for the MSc Data Science Programme.**
 
